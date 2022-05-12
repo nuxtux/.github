@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+  -
+    name: "Code of Conduct"
+    url: https://nuxt.ml/code-of-conduct
+    about: "Community Code of Conduct information."
+  - 
+    name: "Security and Privacy"
+    url: https://nuxt.ml/security
+    about: "Security and Privacy related information"
